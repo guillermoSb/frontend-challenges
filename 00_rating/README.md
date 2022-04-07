@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/guillermoSb/frontend-challenges)
+- Live Site URL: [Click Here](https://guillermosb.github.io/frontend-challenges/00_rating/index.html)
 
 ## My process
 
@@ -67,6 +67,6 @@ I am not totally comfortable with responsive styling. So that is an area that I 
 
 ## Author
 
-- Github - [guillermoSb](https://www.your-site.com)
+- Github - [guillermoSb](https://github.com/guillermoSb)
 - Frontend Mentor - [@guillermoSb](https://github.com/guillermoSb/frontend-challenges)
 - Twitter - [@dev_guille](https://www.twitter.com/dev_guille)
